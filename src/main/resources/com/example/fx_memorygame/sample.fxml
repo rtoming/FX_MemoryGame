@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.fx_memorygame.Controller">
+   <children>
+      <ImageView fx:id="0" fitHeight="150.0" fitWidth="150.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../img/big_red_button.jpg" />
+         </image></ImageView>
+      <ImageView fx:id="1" fitHeight="150.0" fitWidth="150.0" layoutX="152.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../img/big_red_button.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="2" fitHeight="150.0" fitWidth="150.0" layoutX="303.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../img/big_red_button.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="3" fitHeight="150.0" fitWidth="150.0" layoutX="454.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../img/big_red_button.jpg" />
+         </image>
+      </ImageView>
+       <ImageView fx:id="4" fitHeight="150.0" fitWidth="150.0" layoutY="150.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image></ImageView>
+       <ImageView fx:id="5" fitHeight="150.0" fitWidth="150.0" layoutX="152.0" layoutY="150.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="6" fitHeight="150.0" fitWidth="150.0" layoutX="303.0" layoutY="150.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="7" fitHeight="150.0" fitWidth="150.0" layoutX="454.0" layoutY="150.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="8" fitHeight="150.0" fitWidth="150.0" layoutY="300.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image></ImageView>
+       <ImageView fx:id="9" fitHeight="150.0" fitWidth="150.0" layoutX="152.0" layoutY="300.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="10" fitHeight="150.0" fitWidth="150.0" layoutX="303.0" layoutY="300.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="11" fitHeight="150.0" fitWidth="150.0" layoutX="454.0" layoutY="300.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="12" fitHeight="150.0" fitWidth="150.0" layoutY="450.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image></ImageView>
+       <ImageView fx:id="13" fitHeight="150.0" fitWidth="150.0" layoutX="152.0" layoutY="450.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="14" fitHeight="150.0" fitWidth="150.0" layoutX="303.0" layoutY="450.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+       <ImageView fx:id="15" fitHeight="150.0" fitWidth="150.0" layoutX="454.0" layoutY="450.0" onMouseClicked="#click" pickOnBounds="true" preserveRatio="true">
+           <image>
+               <Image url="@../../../img/big_red_button.jpg" />
+           </image>
+       </ImageView>
+   </children>
+</AnchorPane>
